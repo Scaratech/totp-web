@@ -2,5 +2,5 @@
 A web-based client for TOTP
 
 ## TODO
-- [ ] WebUI
-- [ ] Optional backup server
+- [ ] Optional sync server
+- [ ] WebUI (hell :c)

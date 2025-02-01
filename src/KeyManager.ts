@@ -1,5 +1,5 @@
 // This entire file is embarrassing man don't read it
-import { CookieWrapper } from './CookieWrapper';
+import { CookieWrapper } from './CookieWrapper.js';
 
 export class KeyManager {
     export() {
